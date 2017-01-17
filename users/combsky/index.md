@@ -7,9 +7,10 @@ Kyle Combs
 ================================
 
 Scribble
+
 Scribble2
-Scribble3
-=======
+
+Scribble3 
 
 Doug added more scribbles.
 >>>>>>> 8c73d1e94cbf6757353f4b25518d66717298863b

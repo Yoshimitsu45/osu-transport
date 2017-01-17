@@ -8,7 +8,6 @@ Kyle Combs
 
 Scribble
 Scribble2
-<<<<<<< HEAD
 Scribble3
 =======
 

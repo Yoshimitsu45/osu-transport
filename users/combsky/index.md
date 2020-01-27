@@ -7,7 +7,7 @@ author: Kyle Combs
 Kyle Combs
 ==============
 
-I pursuing an M.S. in Nuclear Engineering under the guidance of Dr. Todd Palmer. I work as a nuclear fuel perfomance engineer for NuScale Power.
+I pursuing an M.S. in Nuclear Engineering under the guidance of Dr. Todd Palmer. I work as a nuclear fuel performance engineer for NuScale Power.
 
 ***
 
@@ -55,4 +55,4 @@ I enjoy hiking, gardening, cooking, crabbing, snowboarding, reading, video gamin
 ***
 
 ## Additional Information
-Feel free to contact me at: <a href="mailto:combsky@oregonstate.edu" target="top"> combsky@oregonstate.edu </a>, or via <a href="https://www.linkedin.com/in/kyle-combs-a26ab913b" target="top"> LinkedIn </a>.
+Feel free to contact me at: <a href="mailto:combsky@oregonstate.edu" target="top"> combsky@oregonstate.edu</a>, or via <a href="https://www.linkedin.com/in/kyle-combs-a26ab913b" target="top"> LinkedIn </a>.

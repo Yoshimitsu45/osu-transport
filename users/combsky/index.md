@@ -7,11 +7,7 @@ author: Kyle Combs
 Kyle Combs
 ==============
 
-Hello World - I am a student and Health Physicist at Oregon State University. Currently I'm
-pursuing a M.S. in Nuclear Engineering under the guidance of Dr. Todd Palmer. My HP duties mostly
-involve shipping irradiated experimental samples, monitoring and surveying radiation areas, and controlling the 
-release of radioactive materials. I live off-grid in the woods of Philomath Oregon with my beautiful wife Brittany, 
-a cat named Panda, the sheepish sheepdog Absu, several chickens, and three of the world's fairest ferrets.
+I pursuing an M.S. in Nuclear Engineering under the guidance of Dr. Todd Palmer. I work as a nuclear fuel perfomance engineer for NuScale Power.
 
 ***
 
@@ -47,20 +43,16 @@ the differences which arise between noumenal reality and computer modeled simula
 ### Conferences
 
 - PHYSOR2016, *Sun Valley*, *ID*, May 2016, Student Volunteer and NuScale Power Representative.
-- Oregon State University Graduate Research Showcase, *Corvallis*, *OR*, February 2017, Potential Presenter.
-- American Nuclear Society Annual Meeting, *San Francisco*, *CA*, June 2017, Potential Presenter.
+- Oregon State University Graduate Research Showcase, *Corvallis*, *OR*, February 2017, Poster Presentation.
+- American Nuclear Society Annual Meeting, *San Francisco*, *CA*, June 2017, Podium Presentation.
 
 ***
 
 ## Personal Interests
 
-I enjoy most activities involving imagination and exploration. Wandering in the woods (Backpacking - Camping - Hiking),
-Video Gaming (JRPGs - Psychological Survival Horror), Tabletop Gaming (AD&D - 3.5 Ed. - 5th Ed.), Reading, 
-Philosophy (Metaphysics - German Idealism - Existentialism), MBTI, Disk Golfing, Snowboarding, Crabbing, Gardening, Cooking,
-and traveling the Northwest. I am also a devout Metalhead (Power - Folk - Atmospheric Black - Cascadian Black - Technical)
-and oddly enjoy splitting wood.
+I enjoy hiking, gardening, cooking, crabbing, snowboarding, reading, video gaming, table-top gaming, exploring the pacific northwest, heavy metal, and splitting wood.
 
 ***
 
 ## Additional Information
-Feel free to contact me at: <a href="mailto:Kyle.Combs@oregonstate.edu" target="top"> Kyle.Combs@oregonstate.edu </a>
+Feel free to contact me at: <a href="mailto:combsky@oregonstate.edu" target="top"> combsky@oregonstate.edu </a>, or via <a href="https://www.linkedin.com/in/kyle-combs-a26ab913b" target="top"> LinkedIn </a>.
